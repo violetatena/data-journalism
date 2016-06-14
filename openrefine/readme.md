@@ -3,6 +3,8 @@ Sarah Cohen / sarah.cohen@nytimes.com / Denver CAR 2016
 
 This tutorial walks through a cleanup of a spreadsheet compiled from the Medicaid long-term managed care reports from New York State.  This data was only going to be used for a few minutes as a way to determine which company would make a good subject based on its growth and size.  It wasn't worth a lot of work and using OpenRefine and regular expressions made a quick job of it. 
 
+If you want to practice regular expressions outside of OpenRefine, try [Regex 101](https://regex101.com/#python)
+
 The original data is : 
 [https://www.health.ny.gov/health_care/managed_care/reports/enrollment/monthly/](https://www.health.ny.gov/health_care/managed_care/reports/enrollment/monthly/)
 
