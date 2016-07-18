@@ -96,7 +96,7 @@ We're going to use a *capture group* in the regular expression to extract the na
 
 Use the same method for the next steps. 
 
-We'll use a  *character class* to look for any combination of spaces and commas. 
+We'll use a  *character class* - some characters enclosed by brackets -  to look for any combination of spaces and commas. 
 				
 				[, ]+ 
 				means one or more commas, spaces or any combination of them. 
