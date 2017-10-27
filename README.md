@@ -12,7 +12,7 @@ Rob Gebeloff / rgebeloff@nytimes.com
 (Wednesdsay, 6-9pm) : [SCHEDULE](Schedule)
 
 
-##Description
+## Description
 
 This is a five-week class in the branch of data journalism dedicated to reporting, particularly public affairs and investigative reporting. Maurice Tamman of Reuters has dubbed this specialty the "empirical spine" of investigative reporting, in the tradition of computer-assisted reporting and precision journalism. 
 
